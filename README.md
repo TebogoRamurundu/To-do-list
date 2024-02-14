@@ -1,2 +1,4 @@
-# To-do-list
-Task APP
+# TASKs
+To-do list APP
+Calculator
+Contact Book
